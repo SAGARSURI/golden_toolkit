@@ -6,7 +6,7 @@ repository: https://github.com/eBay/flutter_glove_box/tree/master/packages/golde
 issue_tracker: https://github.com/eBay/flutter_glove_box/issues
 
 environment:
-  sdk: 3.9.2
+  sdk: 3.8.1
 
 dependencies:
   flutter:
